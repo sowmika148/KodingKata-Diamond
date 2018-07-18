@@ -1,0 +1,4 @@
+enum AlphabetCase {
+    CAPITAL,
+    SMALL
+}
